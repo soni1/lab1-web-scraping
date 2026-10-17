@@ -1,5 +1,5 @@
 Source: Weather Underground
 Location: Helsinki, Finland
-Temperature: Not found °C
-Feels like: Not found °C
-Condition: Not found
+Temperature: 5.6 °C
+Feels like: 5.6 °C
+Condition: Partly Cloudy
