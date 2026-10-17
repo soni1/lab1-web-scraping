@@ -1,0 +1,12 @@
+TASK 1 - TEXT SCRAPING
+Topic: Machine Learning
+
+SOURCE 1: Stanford HAI
+Headline: What is Machine Learning (ML)?
+Text:
+Machine Learning is a branch of artificial intelligence that enables computers to learn patterns and make decisions from data without being explicitly programmed with rules. Instead of following step-by-step instructions, ML algorithms analyze examples to identify patterns and improve their performance over time through experience. Common applications include email spam filters, recommendation systems, image recognition, voice assistants, and fraud detection.
+
+SOURCE 2: Carnegie Mellon University
+Headline: Carnegie Mellon University School of Computer Science
+Text:
+Founded in 2006 as the world's first academic department of its kind, Carnegie Mellon University's Machine Learning Department leads the development of the discipline by performing breakthrough research; developing and propagating a model academic curriculum for machine learning; and helping society benefit from the knowledge we gain through research.
